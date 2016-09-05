@@ -1,43 +1,43 @@
 <?php
 /******************************************
 US English
-Admin Product Language
+Admin Produk Language
 ******************************************/
 
-$lang['products'] = 'Products';
-$lang['search_term'] = 'Search Term';
-$lang['product_form'] = 'Product Form';
+$lang['Produk'] = 'Produk';
+$lang['search_term'] = 'Pencarian';
+$lang['Produk_form'] = 'Produk Form';
 $lang['sku'] = 'SKU';
-$lang['value'] = 'Value';
+$lang['value'] = 'Nilai';
 $lang['limit'] = 'Limit';
 $lang['seo_title'] = 'Title Tag';
 $lang['meta'] = 'Meta Tags';
 $lang['name'] = 'Name';
 $lang['slug'] = 'URL Keyword';
 $lang['description'] = 'Description';
-$lang['details'] = 'Details';
+$lang['details'] = 'Detil';
 $lang['enabled'] = 'Enabled';
 $lang['primary'] = 'Primary';
 $lang['in'] = 'In';
 $lang['main'] = 'Main';
 $lang['disabled'] = 'Disabled';
 $lang['excerpt'] = 'Excerpt';
-$lang['price'] = 'Price';
-$lang['saleprice'] = 'Sale Price';
-$lang['weight'] = 'Weight';
-$lang['attributes'] = 'Attributes';
-$lang['categories'] = 'Categories';
-$lang['filters'] = 'Filters';
-$lang['add_category'] = 'Add Category';
-$lang['header_information'] = 'SEO Information';
-$lang['options'] = 'Options';
-$lang['related_products'] = 'Related Products';
-$lang['images'] = 'Images';
-$lang['meta_example'] = 'ex. &lt;meta name="description" content="We sell products that help you" /&gt;';
-$lang['bulk_save'] = 'Bulk Save';
-$lang['add_new_product'] = 'New Product';
+$lang['price'] = 'Harga';
+$lang['saleprice'] = 'Harga Jual';
+$lang['weight'] = 'Berat';
+$lang['attributes'] = 'Atribut';
+$lang['Kategori'] = 'Kategori';
+$lang['filters'] = 'Filter';
+$lang['add_Kategori'] = 'Tambah Kategori';
+$lang['header_information'] = 'SEO';
+$lang['options'] = 'Pilihan';
+$lang['related_Produk'] = 'Produk Terkait';
+$lang['images'] = 'Gambar';
+$lang['meta_example'] = 'ex. &lt;meta name="description" content="We sell Produk that help you" /&gt;';
+$lang['bulk_save'] = 'Simpan';
+$lang['add_new_Produk'] = 'Produk Baru';
 $lang['add_new_gift_card'] = 'New Gift Card';
-$lang['no_products'] = 'There are currently no products.';
+$lang['no_Produk'] = 'Tidak Ada Produk.';
 $lang['track_stock'] = 'Track Stock';
 $lang['do_not_track_stock'] = 'Do Not Track Stock';
 $lang['out_of_stock'] = 'Out of Stock';
@@ -50,14 +50,14 @@ $lang['quantity'] = 'Available Quantity';
 $lang['copy'] = 'Copy';
 $lang['upload'] = 'Upload';
 $lang['digital_content'] = 'Digital Content';
-$lang['digital_products_desc'] = 'Associate downloadable files with this product.';
+$lang['digital_Produk_desc'] = 'Associate downloadable files with this Produk.';
 $lang['fixed_quantity_note'] = '(This restricts someone from adding multiple copies of the item to their cart.)';
-$lang['quantity_in_stock_note'] = '(This figure will only be used if the product is marked "Track Stock")';
-$lang['filter_by_category'] = 'Filter by Category';
-$lang['select_a_category'] = 'Select one or more categories';
+$lang['quantity_in_stock_note'] = '(This figure will only be used if the Produk is marked "Track Stock")';
+$lang['filter_by_Kategori'] = 'Filter by Kategori';
+$lang['select_a_Kategori'] = 'Select one or more Kategori';
 $lang['select_a_filter'] = 'Select filters';
-$lang['no_available_categories']= 'There are no available categories.';
-$lang['no_available_filters'] = 'There are no available filters';
+$lang['no_available_Kategori']= 'Kategori tidak tersedia.';
+$lang['no_available_filters'] = 'Filters tidak tersedia';
 $lang['inventory'] = 'Inventory';
 
 //option form elements
@@ -74,18 +74,18 @@ $lang['option_name'] = 'Option Name';
 $lang['required'] = 'Required';
 $lang['add_item'] = 'Add Option Item';
 
-//related products
-$lang['select_a_product'] = 'Search for a related product.';
-$lang['add_related_product'] = 'Add Related Product';
-$lang['product_name'] = 'Product Name';
+//related Produk
+$lang['select_a_Produk'] = 'Search for a related Produk.';
+$lang['add_related_Produk'] = 'Add Related Produk';
+$lang['Produk_name'] = 'Produk Name';
 
-//giftcards products
-$lang['add_new_giftcard_product'] = 'Add Giftcard';
-$lang['giftcard_product_form'] = 'Giftcard Product';
+//giftcards Produk
+$lang['add_new_giftcard_Produk'] = 'Add Giftcard';
+$lang['giftcard_Produk_form'] = 'Giftcard Produk';
 $lang['giftcard_values'] = 'Predefined Values';
 $lang['confirm_remove_giftcard_value'] = 'Remove Giftcard value?';
 
-//product images
+//Produk images
 $lang['main_image'] = 'Main Image';
 $lang['remove'] = 'Remove';
 $lang['alt_tag'] = 'Alt Tag';
@@ -96,18 +96,18 @@ $lang['confirm_remove_image'] = 'Are you sure you want to remove this image?';
 $lang['confirm_remove_value'] = 'Are you sure you want to remove this value?';
 $lang['confirm_remove_option'] = 'Are you sure you want to remove this option?';
 $lang['confirm_remove_related'] = 'Are you sure you want to remove this related item?';
-$lang['confirm_remove_category']= 'Are you sure you want to remove this category?';
-$lang['confirm_delete_product'] = 'Are you sure you want to delete this product?';
+$lang['confirm_remove_Kategori']= 'Are you sure you want to remove this Kategori?';
+$lang['confirm_delete_Produk'] = 'Are you sure you want to delete this Produk?';
 
 //alerts
 $lang['alert_must_name_option'] = 'You must give this option a name.';
-$lang['alert_product_related'] = 'This product is already related.';
-$lang['alert_select_product'] = 'Please select a product to add first.';
+$lang['alert_Produk_related'] = 'This Produk is already related.';
+$lang['alert_select_Produk'] = 'Please select a Produk to add first.';
 
 //messages & errors
-$lang['message_saved_product'] = 'The product has been saved.';
-$lang['message_bulk_update'] = 'Your products have been updated.';
-$lang['message_deleted_product']= 'The product has been deleted.';
-$lang['error_not_found'] = 'The requested product could not be found.';
-$lang['error_bulk_no_products'] = 'There are no products selected to bulk update';
+$lang['message_saved_Produk'] = 'The Produk has been saved.';
+$lang['message_bulk_update'] = 'Your Produk have been updated.';
+$lang['message_deleted_Produk']= 'The Produk has been deleted.';
+$lang['error_not_found'] = 'The requested Produk could not be found.';
+$lang['error_bulk_no_Produk'] = 'There are no Produk selected to bulk update';
 $lang['search_returned'] = 'Your searched returned %d result(s)';

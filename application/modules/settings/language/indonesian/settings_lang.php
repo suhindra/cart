@@ -79,10 +79,10 @@ $lang['products_per_page'] = 'Jumlah produk per halaman kategori';
 
 
 $lang['admin_folder'] = 'Admin Folder';
-$lang['require_login'] = 'Require login to checkout.';
-$lang['new_customer_status'] = 'New customers are automatically activated.';
-$lang['weight_unit'] = 'Weight Unit (LB, OZ, KG, etc.)';
-$lang['dimension_unit'] = 'Dimensional Unit (FT, IN, CM, etc.)';
+$lang['require_login'] = 'Harus login untuk checkout.';
+$lang['new_customer_status'] = 'Pelanggan baru otomasit actif.';
+$lang['weight_unit'] = 'Satuan Berat (LB, OZ, KG, etc.)';
+$lang['dimension_unit'] = 'Satuan Dimensi (FT, IN, CM, etc.)';
 $lang['order_status'] = 'Default Order Status';
 $lang['order_statuses'] = 'Order Status Options';
 $lang['status_name'] = 'Status Name';
@@ -90,5 +90,5 @@ $lang['inventory_enabled'] = 'Enable Inventory Tracking';
 $lang['allow_os_purchase'] = 'Allow customers to buy items that are out of stock';
 $lang['tax_shipping'] = 'Charge tax on shipping rates';
 $lang['tax_address'] = 'Base sales tax of which address?';
-$lang['shipping_address'] = 'Shipping Address';
-$lang['billing_address'] = 'Billing Address';
+$lang['shipping_address'] = 'Alamat Pengiriman';
+$lang['billing_address'] = 'Alamat Penagihan';

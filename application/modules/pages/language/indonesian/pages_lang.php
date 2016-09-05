@@ -4,22 +4,22 @@ US English
 Admin Page Language
 ******************************************/
 
-$lang['link_information']       = 'Link Information';
-$lang['add_new_page']           = 'Add New Page';
-$lang['add_new_link']           = 'Add New Link';
-$lang['pages']                  = 'Pages';
-$lang['attributes']             = 'Attributes';
+$lang['link_information']       = 'Informasi Tautan';
+$lang['add_new_page']           = 'Tambah Halaman Baru';
+$lang['add_new_link']           = 'Tambah Tautan Baru';
+$lang['pages']                  = 'Halaman';
+$lang['attributes']             = 'Atribut';
 $lang['seo']                    = 'SEO';
-$lang['page_form']              = 'Page Form';
-$lang['link_form']              = 'Link Form';
-$lang['title']                  = 'Title';
+$lang['page_form']              = 'Form Halamn';
+$lang['link_form']              = 'Form Tautan';
+$lang['title']                  = 'Judul';
 $lang['url']                    = 'URL';
-$lang['url_example']            = '(ex. http://www.gocartdv.com)';
-$lang['menu_title']             = 'Menu Title';
+$lang['url_example']            = '(contoh. http://www.gocartdv.com)';
+$lang['menu_title']             = 'Judul Menu';
 $lang['slug']                   = 'Slug';
 $lang['seo_title']              = 'SEO Title';
 $lang['meta']                   = 'Meta Data';
-$lang['meta_data_description']  = 'ex. &lt;meta name="description" content="We sell products that help you" /&gt;';
+$lang['meta_data_description']  = 'contoh. &lt;meta name="description" content="We sell products that help you" /&gt;';
 $lang['sequence']               = 'Sequence';
 $lang['parent_id']              = 'Parent';
 $lang['new_window']             = 'New Window';

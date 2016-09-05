@@ -4,7 +4,7 @@ US English
 Admin login Language
 ******************************************/
 
-$lang['error_authentication_failed'] = 'Authentication Failed!';
+$lang['error_authentication_failed'] = 'Autentifikasi Gagal!';
 $lang['message_logged_out'] = 'Kamu telah keluar';
 $lang['gocart_login'] = 'Masuk';
 $lang['login'] = 'Masuk';
@@ -13,9 +13,9 @@ $lang['email'] = 'Email';
 $lang['username'] = 'Username';
 $lang['forgot_password'] = 'Lupa password';
 $lang['stay_logged_in'] = 'Biarkan saya masuk';
-$lang['username_doesnt_exist'] = 'The requested username does not exist.';
-$lang['reset_password_subject'] = '{{site_name}}: Admin Password Reset';
-$lang['reset_password_content'] = 'Your password has been reset to {{password}}.';
-$lang['password_reset_message'] = 'Your password has been reset and sent to the email address on file.';
-$lang['return_to_login'] = 'Return to login';
+$lang['username_doesnt_exist'] = 'username tidak ditemukan';
+$lang['reset_password_subject'] = '{{site_name}}: Reset Password Admin';
+$lang['reset_password_content'] = 'Password anda telah direset menjadi {{password}}.';
+$lang['password_reset_message'] = 'Password telah di reset dan dikirimkan ke alamat email anda.';
+$lang['return_to_login'] = 'kembali ke login';
 $lang['reset_password'] = 'Reset Password';
